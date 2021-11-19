@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RN Guide",
-    "slug": "rn-complete-guide",
+    "name": "RN",
+    "slug": "rn",
     "privacy": "public",
     "sdkVersion": "38.0.0",
     "platforms": [
